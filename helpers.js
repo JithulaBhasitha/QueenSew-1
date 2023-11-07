@@ -12,13 +12,13 @@ Whats bot - Ravindu Manoj
 */
 
 function successfullMessage(msg) {
-    return "🇱🇰 *Sew Queen👑*:  ```" + msg + "```"
+    return "🇱🇰 *The X👑*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🥴 *Sew Queen👑*:  ```" + msg + "```"
+    return "🥴 *The X👑*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "❄ *Sew Queen👑*:  ```" + msg + "```"
+    return "❄ *The X👑*:  ```" + msg + "```"
 }
 
 
