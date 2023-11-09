@@ -35,7 +35,7 @@ module.exports = {
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.ibb.co/mCs8p89/cover.png' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
     TEXT: process.env.TEXTTEXTTEXT === undefined ? 'SEWS' : process.env.TEXTTEXTTEXT.toUpperCase(),
-    ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'Coded By Little Hacker \n\n The X Bot \nhttps://github.com/LittleHacker999\n\n' : process.env.ALIVE_MESSAGE,
+    ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'මම තාම මැරිලා නෑ යකෝ\nCoded By Little Hacker \n\n The X Bot \nhttps://github.com/LittleHacker999\n\n' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
